@@ -1,0 +1,72 @@
+name: Data Models Vocabulary
+description: >-
+  Vocabulary of data model paradigms, components, and shared semantic
+  vocabularies used across industries.
+terms:
+  - term: Relational Model
+    definition: >-
+      Codd's model representing data as relations (tables) of tuples
+      (rows) with attributes (columns) and integrity constraints.
+  - term: Hierarchical Model
+    definition: >-
+      A tree-structured model where records have a single parent,
+      historically used by IBM IMS.
+  - term: Network Model
+    definition: >-
+      A graph-based model where records can have multiple parents,
+      formalized by the CODASYL specification.
+  - term: Object Model
+    definition: >-
+      A model that combines data and behavior into objects with
+      identity, encapsulation, and inheritance.
+  - term: Document Model
+    definition: >-
+      A model that stores entities as nested documents in formats like
+      JSON or BSON, used by MongoDB and Couchbase.
+  - term: Key-Value Model
+    definition: >-
+      A simple model that stores opaque values keyed by an identifier,
+      used by Redis, DynamoDB, and others.
+  - term: Wide-Column Model
+    definition: >-
+      A model that stores rows with a flexible set of columns grouped
+      into column families, used by Cassandra and HBase.
+  - term: Graph Model
+    definition: >-
+      A model that represents data as nodes and edges with properties,
+      used by property graph databases and RDF triple stores.
+  - term: Time-Series Model
+    definition: >-
+      A model optimized for sequences of timestamped measurements,
+      used by InfluxDB, TimescaleDB, and Prometheus.
+  - term: Event-Sourced Model
+    definition: >-
+      A model that captures state as an append-only log of events
+      from which current state is derived.
+  - term: Entity
+    definition: >-
+      A distinct thing or concept represented in a data model.
+  - term: Attribute
+    definition: >-
+      A property of an entity such as a column in a relational table
+      or field in a document.
+  - term: Relationship
+    definition: >-
+      An association between two or more entities with cardinality
+      and optional attributes.
+  - term: Schema
+    definition: >-
+      The formal description of the structure, types, and constraints
+      of a data model.
+  - term: Semantic Model
+    definition: >-
+      A model with formal meaning expressed through ontologies and
+      shared vocabularies such as RDF, OWL, and Schema.org.
+  - term: Canonical Data Model
+    definition: >-
+      A neutral, agreed-upon model used to mediate between systems in
+      enterprise integration patterns.
+  - term: Master Data Model
+    definition: >-
+      A model that defines the authoritative version of core business
+      entities such as customer, product, and location.
