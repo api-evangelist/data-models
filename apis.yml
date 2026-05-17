@@ -6,8 +6,7 @@ description: >-
   The landscape spans relational, hierarchical, network, object, document,
   graph, key-value, columnar, and event-sourced models, plus shared
   semantic models like Schema.org, FIBO, FHIR, ISO 20022, and W3C RDF/OWL.
-type: Topic
-xType: topic
+kind: topic
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
