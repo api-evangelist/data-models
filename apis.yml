@@ -30,47 +30,47 @@ common:
     description: Wikipedia article on data models.
   - url: https://schema.org/
     name: Schema.org
-    type: Standard
+    type: Standards
     description: Shared vocabulary of types and properties for the web.
   - url: https://www.w3.org/RDF/
     name: W3C RDF
-    type: Standard
+    type: Standards
     description: Resource Description Framework for graph-based data modeling.
   - url: https://www.w3.org/OWL/
     name: W3C OWL
-    type: Standard
+    type: Standards
     description: Web Ontology Language for richer semantic modeling.
   - url: https://json-ld.org/
     name: JSON-LD
-    type: Standard
+    type: Standards
     description: JSON-based serialization for linked data.
   - url: https://spec.edmcouncil.org/fibo/
     name: FIBO
-    type: Standard
+    type: Standards
     description: Financial Industry Business Ontology.
   - url: https://www.hl7.org/fhir/
     name: HL7 FHIR
-    type: Standard
+    type: Standards
     description: Fast Healthcare Interoperability Resources data models.
   - url: https://www.iso20022.org/
     name: ISO 20022
-    type: Standard
+    type: Standards
     description: ISO 20022 financial services messaging models.
   - url: https://smartdatamodels.org/
     name: Smart Data Models
-    type: Standard
+    type: Standards
     description: Open library of standardized data models for smart cities, agriculture, and IoT.
   - url: https://www.gs1.org/standards
     name: GS1 Standards
-    type: Standard
+    type: Standards
     description: GS1 global data models for supply chain and product information.
   - url: https://opengeospatial.org/standards
     name: OGC Standards
-    type: Standard
+    type: Standards
     description: Open Geospatial Consortium standards including geospatial data models.
   - url: https://www.iso.org/committee/53186.html
     name: ISO/IEC JTC 1/SC 32
-    type: Standard
+    type: Standards
     description: ISO subcommittee on data management and interchange.
   - url: vocabulary/data-models-vocabulary.yml
     name: Vocabulary
