@@ -1,4 +1,4 @@
-# Data Models (data-models)
+# data-models
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,59 +64,22 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Data Models are structured representations of entities, attributes, and relationships that define how data is stored, accessed, and exchanged. The landscape spans relational, hierarchical, network, object, document, graph, key-value, columnar, and event-sourced models, plus shared semantic models like Schema.org, FIBO, FHIR, ISO 20022, and W3C RDF/OWL.
+## data-models on APIs.io
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/data-models/refs/heads/main/apis.yml)
+Everything profiled for data-models is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/data-models/](https://apis.io/providers/data-models/)** — or go straight to one of the APIs or properties below.
 
-## Scope
+## API Evangelist rating
 
-- **Type:** Topic
-- **Position:** Consumer
-- **Access:** 3rd-Party
+Not yet rated. See [apis.io/providers/data-models/](https://apis.io/providers/data-models/).
 
-## Tags
+## How this profile is made
 
-- Data Architecture
-- Data Management
-- Data Models
-- Database Design
-- Schema Design
-- Semantic Models
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Timestamps
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for data-models: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-- **Created:** 2025-01-01
-- **Modified:** 2026-04-30
+## Open an issue
 
-## Common Resources
-
-### General
-
-- [Wikipedia](https://en.wikipedia.org/wiki/Data_model)
-- [ISO/IEC JTC 1/SC 32](https://www.iso.org/committee/53186.html)
-
-### Semantic Models
-
-- [Schema.org](https://schema.org/)
-- [W3C RDF](https://www.w3.org/RDF/)
-- [W3C OWL](https://www.w3.org/OWL/)
-- [JSON-LD](https://json-ld.org/)
-
-### Industry Models
-
-- [FIBO](https://spec.edmcouncil.org/fibo/)
-- [HL7 FHIR](https://www.hl7.org/fhir/)
-- [ISO 20022](https://www.iso20022.org/)
-- [Smart Data Models](https://smartdatamodels.org/)
-- [GS1 Standards](https://www.gs1.org/standards)
-- [OGC Standards](https://opengeospatial.org/standards)
-
-### Reference
-
-- [Vocabulary](vocabulary/data-models-vocabulary.yml)
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/data-models/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
